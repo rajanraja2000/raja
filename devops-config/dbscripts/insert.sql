@@ -1,3 +1,3 @@
 INSERT INTO public.employee(
 	 emp_name, emp_salary)
-	VALUES ('DevOps', 2000);
+	VALUES ('DevOps', 4444);
